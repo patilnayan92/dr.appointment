@@ -1,0 +1,19 @@
+Admin Panel
+https://codecanyon.net/item/doctor-finder-appointment-booking-with-timeslot-app/
+
+Calender 
+https://bootsnipp.com/snippets/M3jmA
+
+timeslot 
+https://myreservationsystem.com/en/index/time-slot-booking-calendar
+
+
+https://www.webslesson.info/2021/02/online-doctor-appointment-system-project-in-php-mysql.html
+
+
+https://www.codexworld.com/build-event-calendar-using-jquery-ajax-php/
+
+
+https://www.startutorial.com/articles/view/how-to-build-a-php-booking-calendar-with-mysql
+
+https://www.daniweb.com/programming/web-development/threads/477291/fetch-data-from-database-and-display-in-fullcalendar
